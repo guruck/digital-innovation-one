@@ -1,7 +1,7 @@
 package one.digitalinnovation.tipos.tipagem;
 
 public class TipagemForte {
-
+// uma vez atribuido o TIPO à variável, não é possível mudá-lo.
     public static void main(String[] args) {
 
         String texto = "meu texto";

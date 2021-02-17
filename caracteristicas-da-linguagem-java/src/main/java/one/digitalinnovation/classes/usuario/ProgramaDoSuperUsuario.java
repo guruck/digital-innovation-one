@@ -5,10 +5,10 @@ public class ProgramaDoSuperUsuario {
     public static void main(String[] args) {
         final var superUsuario = new SuperUsuario("root", "1234%$#@");
 
+        System.out.println(superUsuario.getLogin());
 
-        superUsuario.getLogin();
 
-        superUsuario.getSenha();
+        System.out.println(superUsuario.getSenha());
 
         String root = superUsuario.nome;
 

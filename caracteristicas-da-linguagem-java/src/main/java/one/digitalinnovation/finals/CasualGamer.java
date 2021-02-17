@@ -13,6 +13,7 @@ public class CasualGamer extends Gamer {
     }*/
 
     public String play(final String game) {
+        //recebendo um parametro final, não é possível alterar o parametro recebido.
         //game = "WoW";
 
         return "Jogando "+ game;

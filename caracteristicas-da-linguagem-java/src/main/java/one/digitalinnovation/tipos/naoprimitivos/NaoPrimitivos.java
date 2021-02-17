@@ -8,7 +8,7 @@ public class NaoPrimitivos {
 
         Void v; //Tipo válido
 
-        Object o = new Object();
+        Object o = new Object(); // todos os outros objetos extendem dessa classe
 
         Number numero = Integer.valueOf(100);
 

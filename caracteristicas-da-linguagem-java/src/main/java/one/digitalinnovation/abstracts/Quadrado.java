@@ -12,7 +12,6 @@ public class Quadrado extends FormaGeometrica {
 
     @Override
     public String nome() {
-
         return nome;
     }
 

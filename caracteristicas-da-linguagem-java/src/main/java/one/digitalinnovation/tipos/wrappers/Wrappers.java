@@ -3,6 +3,11 @@ package one.digitalinnovation.tipos.wrappers;
 public class Wrappers {
 
     public static void main(String[] args) {
+
+        /**
+         * São objetos que representam os tipos primitivos.
+         * Autoboxing, são classes que autocontroem objetos, não possuindo a necessidade de fazer "new objeto()"
+         */
         //Autoboxing
 
         Byte b = 127;   //byte

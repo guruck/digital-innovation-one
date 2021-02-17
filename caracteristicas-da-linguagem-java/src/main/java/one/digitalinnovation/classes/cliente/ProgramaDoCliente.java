@@ -9,7 +9,7 @@ public class ProgramaDoCliente {
 
         cliente.getPeso();
 
-        //System.out.println(cliente.relatorio());
+        //System.out.println(cliente.relatorio()); //está em outro pacote, não pode acessar o metodo protected
     }
 
 }

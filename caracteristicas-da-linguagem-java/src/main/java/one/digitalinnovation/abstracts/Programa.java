@@ -4,7 +4,7 @@ public class Programa {
 
     public static void main(String[] args) {
 
-        //final FormaGeometrica formaGeometrica = new FormaGeometrica();
+        //final FormaGeometrica formaGeometrica = new FormaGeometrica(); //não é possivel instanciar a "ideia" (Abstract)
 
         final FormaGeometrica quadadro = new Quadrado("quadadro", 10.0);
 
