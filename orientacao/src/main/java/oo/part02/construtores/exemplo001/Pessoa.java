@@ -1,4 +1,4 @@
-package part01.paradigma.exemplo001;
+package oo.part02.construtores.exemplo001;
 
 public class Pessoa {
 
